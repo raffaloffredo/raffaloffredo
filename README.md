@@ -34,8 +34,3 @@
   <a href="https://medium.com/@loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 </div>
-
-##
-<div> 
-  ![Snake animation](https://github.com/raffaloffredo/raffaloffredo/blob/output/github-contribution-grid-snake.svg)
-</div>
