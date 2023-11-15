@@ -36,10 +36,13 @@ Throughout my career, I have worked in different types of companies such as NGOs
 </div><br>
 
 ## Recent Courses
-- Hands-on Corporate Innovation at SkinInnovation
-- Decentralized Finances (DeFi): The Future of Finances at Duke University
-- Microsoft Power BI for Business Intelligence and Data Science at Data Science Academy
+- [Hands-on Corporate Innovation at SkinInnovation](https://www.linkedin.com/feed/update/urn:li:activity:7122200742395883520/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7122200742395883520%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Decentralized Finances (DeFi): The Future of Finances at Duke University](https://www.coursera.org/account/accomplishments/specialization/QDXZ8S2FAJ5X)
+- [Microsoft Power BI for Business Intelligence and Data Science at Data Science Academy](https://mycourse.app/sv5ZAG6npKHLsw227)
 </br>
 
 ## Latest Projects
-
+* [Credit Risk Analysis](https://github.com/raffaloffredo/credit_risk_analysis)
+* [Churn Prediction](https://github.com/raffaloffredo/churn_prediction)
+* [Demand Forescasting with Time Series](https://github.com/raffaloffredo/demand_forecasting_with_time_series)
+<br/>
