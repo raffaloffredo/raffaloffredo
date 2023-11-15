@@ -9,6 +9,8 @@
 <br/>
 
 ## 💡 Transforming data into impactful solutions
+Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
+
 - ⚙️ Analytics Enginner at Indicium
 - 🤝 Advisor at Crypto Jr.
 - 🎓 BS in Law
