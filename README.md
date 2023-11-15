@@ -8,14 +8,14 @@
 
 <br/>
 
-## 💡 Transforming data into impactful solutions
+# 💡 Transforming data into impactful solutions
 Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
 
 - ⚙️ Analytics Enginner at Indicium
 - 🤝 Advisor at Crypto Jr.
 - 🎓 BS in Law
 - 🌱 MS in Environmental Management
-<div style="display: inline_block"><br></div>
+<br/>
 
 ## 💪Human Languages
 <div style="display: inline_block">
@@ -32,5 +32,14 @@ Throughout my career, I have worked in different types of companies such as NGOs
   <img align="center" alt="Anaconda" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Pandas" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="NumPy" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Solidty" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
-</div><br>        
+  <img align="center" alt="Solidity" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
+</div><br>
+
+## Recent Courses
+- Hands-on Corporate Innovation at SkinInnovation
+- Decentralized Finances (DeFi): The Future of Finances at Duke University
+- Microsoft Power BI for Business Intelligence and Data Science at Data Science Academy
+</br>
+
+## Latest Projects
+
