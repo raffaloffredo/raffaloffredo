@@ -38,6 +38,7 @@ Throughout my career, I have worked in different types of companies such as NGOs
   <img align="center" alt="Anaconda" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Pandas" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="NumPy" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="TensorFlow" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Solidity" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
 </div>
 </br>
@@ -52,7 +53,7 @@ Throughout my career, I have worked in different types of companies such as NGOs
 ## 🛠️Latest Projects
 - [Credit Risk Analysis](https://github.com/raffaloffredo/credit_risk_analysis)
 - [Churn Prediction](https://github.com/raffaloffredo/churn_prediction)
-- [Demand Forescasting with Time Series](https://github.com/raffaloffredo/demand_forecasting_with_time_series)
+- [Demand Forecasting with Time Series](https://github.com/raffaloffredo/demand_forecasting_with_time_series)
 </br>
 
 ### <p align="center"> 👉 Click [here](https://github.com/raffaloffredo/data_science_portfolio) to check my Data Science portfolio 👈 
