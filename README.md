@@ -6,8 +6,10 @@
   <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <br/>
+<br/>
 
-# 💡 Transforming data into impactful solutions
+# <p align="center">💡 Transforming data into impactful solutions
+</p>
 Throughout my career, I have worked in different types of companies such as NGOs, governments, start-ups, and multinationals. As a result, I have a vast knowledge of business that helps me as a data scientist to more easily identify and solve problems. I also find points that minimize costs and create models that increase revenues, in order to extract meaningful information that assists in decision-making and makes the company more profitable. For this, I always seek to improve my knowledge in business, data analysis, and data visualization to build better analytical models and present them in increasingly sophisticated reports.
 
 - ⚙️ Analytics Enginner at Indicium
