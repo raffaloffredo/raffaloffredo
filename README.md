@@ -52,9 +52,9 @@ Throughout my career, I have worked in different types of companies such as NGOs
 </br>
 
 ## 📚Recent Courses
+- [dbt Fundamentals](https://credentials.getdbt.com/d7c1d95e-950a-4caf-9f55-2c6ee8039ea8#gs.2suuui)
 - [Hands-on Corporate Innovation at SkinInnovation](https://www.linkedin.com/feed/update/urn:li:activity:7122200742395883520/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7122200742395883520%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Decentralized Finances (DeFi): The Future of Finances at Duke University](https://www.coursera.org/account/accomplishments/specialization/QDXZ8S2FAJ5X)
-- [Microsoft Power BI for Business Intelligence and Data Science at Data Science Academy](https://mycourse.app/sv5ZAG6npKHLsw227)
 </br>
 
 ## 🛠️Latest Projects
