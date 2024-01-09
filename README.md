@@ -58,7 +58,7 @@ Throughout my career, I have worked in different types of companies such as NGOs
 </br>
 
 ## 🛠️Latest Projects
-- [Credit Risk Analysis](https://github.com/raffaloffredo/credit_risk_analysis)
+- [Fake News Detection with Neural Networks](https://github.com/raffaloffredo/fake_news_detection)
 - [Churn Prediction](https://github.com/raffaloffredo/churn_prediction)
 - [Demand Forecasting with Time Series](https://github.com/raffaloffredo/demand_forecasting_with_time_series)
 </br>
