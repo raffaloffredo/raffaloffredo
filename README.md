@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm6M8KtZzEyUaytKqHEOiFcmLim1fsq8ppwLrpKnzdKzagKkUwPAwWu1SWy_vdrhxnJWjTPP7xRil1yDl8btS_moX0h2CpQw0Xfbh82pBhczWKgt5KoBdiiszxaBTrnvRrguy7NB-V1fUbv1KZf695vaqO1E6zq-7GeM1P76rwbBpYsdCzjkMv_RMAUUk/s16000/banner_loffredo.png">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHdjanw2EQ8K9Miox6Hk5BSKBx5BQU6UaFapxLUAU8DVC9tD6FI5mVPUAnV2mQByoS9LcxLQ2phyq5ZlTzg-jExjORXF3dOMBlX3MLJaiJomP406g32QaLd3hZuiSDJd_7bhR_y28xc_heRJ0mLWPEPac_PHgHUgtDYL6B80UaCdR1TPbotcI5JPw-hQ/s16000/LoffredoDS_banner_dbt%20e%20google%20DA.png">
 </p>
 
   <a href="https://sites.google.com/view/loffredo/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -15,9 +15,9 @@ Throughout my career, I have worked in different types of companies such as NGOs
 
 <p align="center">
 </br>
-⚙️ Analytics Enginner at Indicium
+⚙️ Analytics Engineer at Indicium
 🪐 Co-founder at Bellum Galaxy
-🤝 Advisor at Crypto Jr. 
+🤝 Chainlink Advocate 
 🎓 BS in Law 
 🌱 MS in Environmental Management
 🏆 Winner of Top Quality Projetc at Chainlink Hackathon 2023
@@ -52,8 +52,8 @@ Throughout my career, I have worked in different types of companies such as NGOs
 </br>
 
 ## 📚Recent Courses
+- [Google Data Analytics](https://www.credly.com/badges/cfaea8f9-3e23-4fb0-87b8-d7753632eee6/linked_in_profile)
 - [dbt Fundamentals](https://credentials.getdbt.com/d7c1d95e-950a-4caf-9f55-2c6ee8039ea8#gs.2suuui)
-- [Hands-on Corporate Innovation at SkinInnovation](https://www.linkedin.com/feed/update/urn:li:activity:7122200742395883520/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7122200742395883520%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 - [Decentralized Finances (DeFi): The Future of Finances at Duke University](https://www.coursera.org/account/accomplishments/specialization/QDXZ8S2FAJ5X)
 </br>
 
