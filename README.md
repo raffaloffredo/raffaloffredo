@@ -15,11 +15,11 @@ I am a communicative, proactive person with a thirst for innovation! I moved to 
 
 <p align="center">
 </br>
-⚙️ Analytics Engineer at Indicium
 🪐 Co-founder at Bellum Galaxy
 🤝 Chainlink Advocate 
 🎓 BS in Law 
 🌱 MS in Environmental Management
+</br>
 🏆 Winner of Top Quality Projetc at Chainlink Hackathon 2023
 </p>
 </br>
