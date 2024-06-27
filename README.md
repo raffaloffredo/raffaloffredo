@@ -2,9 +2,13 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHdjanw2EQ8K9Miox6Hk5BSKBx5BQU6UaFapxLUAU8DVC9tD6FI5mVPUAnV2mQByoS9LcxLQ2phyq5ZlTzg-jExjORXF3dOMBlX3MLJaiJomP406g32QaLd3hZuiSDJd_7bhR_y28xc_heRJ0mLWPEPac_PHgHUgtDYL6B80UaCdR1TPbotcI5JPw-hQ/s16000/LoffredoDS_banner_dbt%20e%20google%20DA.png">
 </p>
 
+<p align="center">
+  <a href="https://linktree.com/raffaloffredo" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://sites.google.com/view/loffredo/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raffaela-loffredo/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@loffredo.ds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</p>
+
 </br>
 </br>
 
