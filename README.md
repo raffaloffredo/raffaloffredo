@@ -24,7 +24,7 @@ I am a communicative, proactive person with a thirst for innovation! I moved to 
 🎓 BS in Law 
 🌱 MS in Environmental Management
 </br>
-🏆 2x Winner of Top Quality Projetc at Chainlink Hackathon 2023 and 2024
+🏆 3x Project Awarded
 </p>
 </br>
 
