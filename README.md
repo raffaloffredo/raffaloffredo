@@ -19,11 +19,8 @@ I am a communicative, proactive person with a thirst for innovation! I moved to 
 
 <p align="center">
 </br>
-🪐 Founder at 77 Innovation Labs
+💙 Founder at 77 Innovation Labs
 🤝 Chainlink Advocate 
-🎓 BS in Law 
-🌱 MS in Environmental Management
-</br>
 🏆 3x Project Awarded
 </p>
 </br>
