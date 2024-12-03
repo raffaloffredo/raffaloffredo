@@ -15,11 +15,11 @@
 # <p align="center">💡 Transforming data into impactful solutions
 </p>
 
-I am a communicative, proactive person with a thirst for innovation! I moved to the data area almost 2 years ago as I feel more challenged in unraveling data and transforming it into relevant information that facilitates decision-making. In my career, I worked in companies of different sectors and sizes due to my ease of adaptation. These experiences reflect my multidisciplinary and systemic vision that helps me find quicker and more creative solutions to complex problems. For this reason, I have worked in different roles and data specialties such as Data Analytics Manager, Data Scientist, and Analytics Engineer.
+I am a communicative, proactive person with a thirst for innovation! I moved to the data area 2 years ago as I feel more challenged in unraveling data and transforming it into relevant information that facilitates decision-making. In my career, I worked in companies of different sectors and sizes due to my ease of adaptation. These experiences reflect my multidisciplinary and systemic vision that helps me find quicker and more creative solutions to complex problems. For this reason, I have worked in different roles and data specialties such as Data Analytics Manager, Data Scientist, and Analytics Engineer.
 
 <p align="center">
 </br>
-🪐 Co-founder at Bellum Galaxy
+🪐 Founder at 77 Innovation Labs
 🤝 Chainlink Advocate 
 🎓 BS in Law 
 🌱 MS in Environmental Management
